@@ -1,9 +1,9 @@
-# Angular Acessível
+# Angular Acessível ♿️
 
-![Accessibility](https://img.shields.io/badge/accessibility-friendly-brightgreen.svg)
-![Angular Version](https://img.shields.io/badge/angular-v12-orange.svg)
+![Acessibilidade](https://img.shields.io/badge/acessibilidade-amigável-brightgreen.svg)
+![Versão do Angular](https://img.shields.io/badge/angular-v12-laranja.svg)
 
-Este repositório contém um projeto em Angular que tem como objetivo exemplificar e promover boas práticas de acessibilidade na construção de aplicações web.
+Bem-vindo ao repositório do Angular Acessível! Este projeto em Angular tem como objetivo exemplificar e promover boas práticas de acessibilidade na construção de aplicações web.
 
 ## Visão Geral
 
