@@ -5,11 +5,11 @@
 
 Bem-vindo ao repositório do Angular Acessível! Este projeto em Angular tem como objetivo exemplificar e promover boas práticas de acessibilidade na construção de aplicações web.
 
-## Visão Geral
+## Visão Geral 🌐📋
 
 Acessibilidade é um aspecto fundamental no desenvolvimento de aplicações web, pois garante que pessoas com diferentes habilidades e necessidades possam utilizar e interagir com o conteúdo de forma igualitária. Este projeto demonstra a implementação de recursos e técnicas de acessibilidade no contexto do Angular.
 
-## Recursos
+## Recursos 🛠️🎨
 
 - Componentes acessíveis pré-configurados, seguindo as diretrizes do WCAG 2.1.
 - Estrutura HTML semanticamente correta para melhorar a compreensão do conteúdo por leitores de tela.
@@ -17,7 +17,7 @@ Acessibilidade é um aspecto fundamental no desenvolvimento de aplicações web,
 - Melhorias de contraste de cores e tamanho de fonte para facilitar a leitura e a identificação de elementos.
 - Foco do teclado bem definido para auxiliar na navegação por usuários que não utilizam o mouse.
 
-## Como Utilizar
+## Como Utilizar 🚀📂
 
 1. Certifique-se de ter o Angular CLI instalado globalmente: `npm install -g @angular/cli`.
 2. Clone este repositório: `git clone https://github.com/seu-usuario/Angular-Acessivel.git`.
@@ -26,7 +26,7 @@ Acessibilidade é um aspecto fundamental no desenvolvimento de aplicações web,
 5. Execute o servidor de desenvolvimento: `ng serve`.
 6. Acesse a aplicação no seu navegador em `http://localhost:4200`.
 
-## Contribuições
+## Contribuições 👥🤝
 
 Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto e torná-lo ainda mais acessível, siga as etapas abaixo:
 
@@ -37,7 +37,7 @@ Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto 
 5. Envie suas alterações para o repositório remoto: `git push origin minha-contribuicao`.
 6. Abra um Pull Request descrevendo suas alterações.
 
-## Recursos Adicionais
+## Recursos Adicionais 📚🌐
 
 Aqui estão alguns recursos adicionais para aprender mais sobre acessibilidade na web:
 
@@ -47,6 +47,10 @@ Aqui estão alguns recursos adicionais para aprender mais sobre acessibilidade n
 - [Inclusive Components - Componentes web acessíveis](https://inclusive-components.design/)
 - [A11Y Project - Guia prático de acessibilidade web](https://a11yproject.com/)
 
-## Licença
+## Licença 📄🔐
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+
+## Criador 👨‍💻🔍
+
+Este projeto foi criado por @kalebzaki4. Agradecemos sua contribuição para promover a acessibilidade na web!
